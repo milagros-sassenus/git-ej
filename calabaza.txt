@@ -1,10 +1,8 @@
-<<<<<<< HEAD
+
 generando conflictos -- Pedro
-=======
-Soy una calabaza!∫
+
+Soy una calabaza!
 
 Me encanta la calabaza!
 
 agrego mas calabazas :D
-
->>>>>>> 28712a4f9ae27750c5b3c13cc02201ad8eb7c9f9
